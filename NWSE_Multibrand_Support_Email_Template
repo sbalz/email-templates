@@ -1,0 +1,574 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html lang="en">
+<head>
+<meta content="text/html; charset=UTF-8" http-equiv="Content-Type"/>
+<!--[ if !mso]>
+<!-->
+<meta content="IE=edge" http-equiv="X-UA-Compatible"/>
+<!--<![endif]-->
+<meta content="telephone=no" name="format-detection"/>
+<meta content="width=device-width, initial-scale=1.0" name="viewport"/>
+<meta content="only" name="color-scheme"/>
+<link href="https://theme.zdassets.com/theme_assets/17918920/76585b90e3afbf8dc9cb885547a4b9303d7fe030.png" rel="apple-touch-icon" sizes="76x76"/>
+<link href="https://theme.zdassets.com/theme_assets/17918920/76585b90e3afbf8dc9cb885547a4b9303d7fe030.png" rel="icon" sizes="96x96" type="image/png"/>
+<script src='http://cdnjs.cloudflare.com/ajax/libs/jquery/2.1.3/jquery.min.js'></script>
+<title>New Work SE Email Template</title>
+<style type="text/css">.ExternalClass { 
+width: 100%;
+}
+.ExternalClass, .ExternalClass p, .ExternalClass span, .ExternalClass font, .ExternalClass td, .ExternalClass div, .ExternalClass b, .ExternalClass br, .ExternalClass img { line-height: 100% !important; }
+
+/* iOS BLUE Links */
+.appleBody a { color:#212121; text-decoration: none; }
+.appleFooter a { color:#212121 !important; text-decoration: none !important; }
+
+/* END iOS BLUE Links */
+body { margin: 0; padding: 0; -webkit-text-size-adjust: 100% !important; -ms-text-size-adjust: 100% !important; }
+body, #body_style { background: #ffffff !important; }
+table td { border-collapse: collapse; border-spacing: 0 !important; }
+table tr { border-collapse: collapse; border-spacing: 0 !important; }
+table tbody { border-collapse: collapse; border-spacing: 0 !important; }
+table { border-collapse: collapse; border-spacing: 0 !important; }
+span.yshortcuts, a span.yshortcuts { color: #000001; background-color: none; border: none; }
+span.yshortcuts:hover,
+span.yshortcuts:active,
+span.yshortcuts:focus { color: #000001; background-color: none; border: none; }
+img { -ms-interpolation-mode: bicubic; }
+a[x-apple-data-detectors]
+{ color: inherit !important; text-decoration: none !important; font-size: inherit !important; font-family: inherit !important; font-weight: inherit !important; line-height: inherit !important; }
+
+/**** Desktop styles ****/
+@media only screen and (min-width: 768px) { 
+.noDesk { display: none !important; }
+*[class].zoom { zoom: 95% !important; }
+*[class].container { width: 100% !important; }
+*[class].brand_logo{ height: 35px !important; width: auto !important; margin: 22.5px auto 22.5px auto !important; }
+*[class].header{ height: 80px !important; width: auto !important; border-top-left-radius: 3px !important; border-top-right-radius: 3px !important; }
+*[class].content { font-size: 18px !important; padding: 50px auto 50px auto !important; }
+*[class].prefooter { width: 100% !important; }
+*[class].appbatches { height: 40px !important; width: auto !important; }
+*[class].signature { width: auto !important; border-bottom-left-radius: 3px !important; border-bottom-right-radius: 3px !important; }
+*[class].signature_content { font-size: 14px !important; }
+*[class].links { width: auto !important; font-size: 13px !important; }
+*[class].end { color: transparent !important; }
+.td-padding { padding-left: 15px !important; padding-right: 15px !important; }
+.padding-container { padding: 0px 15px 0px 15px !important; mso-padding-alt: 0px 15px 0px 15px !important; }
+.mobile-column-left-padding { padding: 0px 0px 0px 0px !important; mso-alt-padding: 0px 0px 0px 0px !important; }
+.mobile-column-right-padding { padding: 0px 0px 0px 0px !important; mso-alt-padding: 0px 0px 0px 0px !important; }
+.mobile { display: none !important}
+.hide { display: none !important; font-size: 0.1pt !important; color: transparent !important; }
+}
+
+/**** Mobile styles ****/
+@media only screen and (max-width: 767px) and (min-width: 600px) and (-webkit-min-device-pixel-ratio: 1)
+{ 
+*[class].wrapper { width: 100% !important; }
+*[class].container { width: 100% !important; }
+*[class].brand_logo{ height: 35px !important; width: auto !important; margin: 22.5px auto 22.5px auto !important; }
+*[class].header{ height: 80px !important; width: auto !important; border-top-left-radius: 3px !important; border-top-right-radius: 3px !important; }
+*[class].content { font-size: 18px !important; }
+*[class].prefooter { width: 100% !important; }
+*[class].appbatches { height: 35px !important; width: auto !important; }
+*[class].signature { width: auto !important; border-bottom-left-radius: 3px !important; border-bottom-right-radius: 3px !important; }
+*[class].signature_content { font-size: 14px !important; }
+*[class].links { width: auto; font-size: 13px !important; }
+*[class].mobile { width: 100% !important; display: block !important; }
+*[class].center{ margin: 0 auto !important; text-align: center !important; }
+*[class="mobileOff"] { width: 0px !important; display: none !important; }
+*[class="mobileOn"] { display: block !important; max-height: none !important; }
+p[class="mobile-padding"] { padding-left: 0px !important; padding-top: 0px !important; }
+.td-padding { padding-left: 15px !important; padding-right: 15px !important; }
+.padding-container { padding: 0px 50px 0px 50px !important; mso-padding-alt: 0px 50px 0px 50px !important; }
+.mobile-column-left-padding { padding: 0px 0px 0px 0px !important; mso-alt-padding: 0px 0px 0px 0px !important; }
+.mobile-column-right-padding { padding: 0px 0px 0px 0px !important; mso-alt-padding: 0px 0px 0px 0px !important; }
+.bottom-padding-fix { padding: 0px 0px 0px 0px !important; mso-alt-padding: 0px 0px 0px 0px; }
+.hide { display: none !important; font-size: 0.1pt !important; color: transparent !important; }
+}
+
+@media only screen and (max-width: 599px) and (-webkit-min-device-pixel-ratio: 1)
+{ 
+*[class].wrapper { width: 100% !important; }
+*[class].container { width: 100% !important; }
+*[class].brand_logo{ height: 35px !important; width: auto !important; margin: 22.5px auto 22.5px auto !important; }
+*[class].header{ height: 80px !important; width: auto !important; }
+*[class].content { font-size: 18px !important; }
+*[class].prefooter { width: 100% !important; }
+*[class].appbatches { height: 35px !important; width: auto !important; }
+*[class].signature { width: auto !important; }
+*[class].signature_content { font-size: 14px !important; }
+*[class].links { width: auto; font-size: 13px !important; }
+*[class].mobile { width: 100% !important; display:block !important; }
+*[class].center{ margin:0 auto !important; text-align:center !important; }
+*[class="mobileOff"] { width: 0px !important; display: none !important; }
+*[class="mobileOn"] { display: block !important; max-height: none !important; }
+p[class="mobile-padding"] { padding-left: 0px !important; padding-top: 0px !important; }
+.td-padding { padding-left: 0px !important; padding-right: 0px !important; }
+.padding-container { padding: 0px 0px 0px 0px !important; mso-padding-alt: 0px 0px 0px 0px !important; }
+.mobile-column-left-padding { padding: 0px 0px 0px 0px !important; mso-alt-padding: 0px 0px 0px 0px !important; }
+.mobile-column-right-padding { padding: 0px 0px 0px 0px !important; mso-alt-padding: 0px 0px 0px 0px !important; }
+.bottom-padding-fix { padding: 0px 0px 0px 0px !important; mso-alt-padding: 0px 0px 0px 0px; }
+.hide { display: none !important; font-size: 0.1pt !important; color: transparent !important; }
+}
+
+.outframe
+{ 
+box-shadow: 0 2px 5px 0 rgba(0, 0, 0, .16), 0 2px 10px 0 rgba(0, 0, 0, .12);
+-webkit-box-shadow: 0 2px 5px 0 rgba(0, 0, 0, .16), 0 2px 10px 0 rgba(0, 0, 0, .12);
+-moz-box-shadow: 0 2px 5px 0 rgba(0, 0, 0, .16), 0 2px 10px 0 rgba(0, 0, 0, .12);
+transition: box-shadow .45s; 
+}
+
+.outframe:hover
+{ 
+box-shadow: 0 8px 17px 0 rgba(0, 0, 0, .2), 0 6px 20px 0 rgba(0, 0, 0, .19);
+-webkit-box-shadow: 0 8px 17px 0 rgba(0, 0, 0, .2), 0 6px 20px 0 rgba(0, 0, 0, .19);
+-moz-box-shadow: 0 8px 17px 0 rgba(0, 0, 0, .2), 0 6px 20px 0 rgba(0, 0, 0, .19);
+transition: box-shadow .45s; 
+}
+
+.line_height_L
+{
+height: 25px;
+white-space: nowrap;
+}
+
+.line_height_M
+{
+height: 15px;
+white-space: nowrap;
+}
+
+.line_height_S
+{
+height: 10px;
+white-space: nowrap;
+}
+
+.line_height_XS
+{
+height: 5px;
+white-space: nowrap;
+}
+
+.email_header_auto_responder
+{
+margin: auto;
+text-align: center;
+vertical-align: top;
+font-size: 13px;
+color: #49545c;
+}
+
+.email_header_department
+{
+margin: auto;
+text-align: left;
+vertical-align: top;
+font-size: 18px;
+font-weight: 600;
+}
+
+.email_header_date
+{
+margin: auto;
+text-align: left;
+vertical-align: top;
+font-size: 15px;
+font-weight: 600;
+color: #bbbbbb;
+}
+
+@font-face {
+font-family: "XING Sans";
+src: url('https://xing-nw1689001897.zendesk.com/hc/theming_assets/01J0NDRXKP100M8B410EJ2AMB1') format('woff'),
+url('https://xing-nw1689001897.zendesk.com/hc/theming_assets/01J0NDRV2JFVR2KK5TP2VD8RC8') format('woff2');
+font-weight: normal;
+font-style: normal;
+}
+
+@-webkit-keyframes ripple
+{ 
+100% { opacity: 0; -webkit-transform: scale(2.5); }
+}
+@-moz-keyframes ripple
+{ 
+100% { opacity: 0; -moz-transform: scale(2.5); }
+}
+@-o-keyframes ripple
+{ 
+100% { opacity: 0; -o-transform: scale(2.5); }
+}
+@keyframes ripple
+{ 
+100% { opacity: 0; transform: scale(2.5); }
+}
+
+/* former onlyfy styles */
+{% if content contains '| onlyfy - Ihr Recruiting. Unsere Lösung |' %}
+body { margin: 0; padding: 0; background-color: #F2F2F4; font-family: "onlyfyRebond", "Arial", "sans-serif" !important; }
+hr { color: #F2F2F4; border-top: 0px solid; }
+a:link { color: #192642; display: inline-block; cursor: pointer; }
+a:visited { color: #192642; display: inline-block; cursor: pointer; }
+a:hover { color: #4C4CC3; display: inline-block; cursor: pointer; }
+a:active { color: #96B9FF; display: inline-block; cursor: pointer; }
+.content, .email_header_department, .prefooter { color: #121C2F; }
+
+/* new xing styles */
+{% elsif content contains '| XING - Finde den Job, der zu Dir passt. Oder lass Dich finden! |' %}
+body { margin: 0; padding: 0; background-color: #F4F4F5; color: #1d2124; font-family: 'XING Sans', "Trebuchet MS", "Arial", "Helvetica Neue", "sans-serif" !important; }
+hr { color: #F4F4F5; border-top: 0px solid; }
+a:link { color: #0698A0; display: inline-block; cursor: pointer; }
+a:visited { color: #0698A0; display: inline-block; cursor: pointer; }
+a:hover { color: #00D296; display: inline-block; cursor: pointer; }
+a:active { color: #C6F16D; display: inline-block; cursor: pointer; }
+.content, .email_header_department, .prefooter { color: #1d2124; }
+
+/* kununu styles */
+{% elsif content contains '| kununu - Teamwork für eine bessere Arbeitswelt |' or content contains '| kununu - Ihr Weg zu einer starken Employer Brand |' %}
+body { margin: 0; padding: 0; background-color: #E9EDEF; color: #1b1c20; font-family: "InterUI", "Arial", "sans-serif" !important; }
+hr { color: #E9EDEF; border-top: 0px solid; }
+a:link { color: #102B69; display: inline-block; cursor: pointer; }
+a:visited { color: #102B69; display: inline-block; cursor: pointer; }
+a:hover { color: #FF734D; display: inline-block; cursor: pointer; }
+a:active { color: #FECA14; display: inline-block; cursor: pointer; }
+.content, .email_header_department, .prefooter { color: #1b1c20; }
+
+/* xing styles */
+{% elsif content contains '| XING - Dein Job-Netzwerk - Deine Karriere wartet nicht |' %}
+body { margin: 0; padding: 0; background-color: #F4F4F5; color: #1d2124; font-family: "XING Sans", "Trebuchet MS", "Arial", "Helvetica Neue", "sans-serif" !important; }
+hr { color: #F4F4F5; border-top: 0px solid; }
+a:link { color: #0698A0; display: inline-block; cursor: pointer; }
+a:visited { color: #0698A0; display: inline-block; cursor: pointer; }
+a:hover { color: #00D296; display: inline-block; cursor: pointer; }
+a:active { color: #C6F16D; display: inline-block; cursor: pointer; }
+.content, .email_header_department, .prefooter { color: #1d2124; }
+
+/* nwse styles */
+{% else %}
+body { margin: 0; padding: 0; background-color: #F6F6F4; font-family: "-apple-system", "BlinkMacSystemFont", "Segoe UI", "Roboto", "Helvetica Neue", "Helvetica", "Arial", "sans-serif" !important; }
+hr { color: #F6F6F4; border-top: 0px solid; }
+a:link { color: #007272; display: inline-block; cursor: pointer; }
+a:visited { color: #007272; display: inline-block; cursor: pointer; }
+a:hover { color: #65DDBD; display: inline-block; cursor: pointer; }
+a:active { color: #81FDD3; display: inline-block; cursor: pointer; }
+{% endif %}
+
+</style>
+<!--[if gte mso 9]>
+<xml>
+<o:OfficeDocumentSettings>
+<o:AllowPNG/>
+<o:PixelsPerInch>96</o:PixelsPerInch>
+</o:OfficeDocumentSettings>
+</xml>
+<![endif]-->
+</head>
+
+<body>
+<!--[if mso]>
+<style type="text/css">
+body, table, td { 
+font-family: "Arial", "sans-serif" !important;
+}
+</style>
+<![endif]-->
+
+<div class="hide" style="display: none; font-size: 0.1pt; color: transparent;">- For a better working life - New Work SE -</div>
+
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<tbody>
+<tr>
+<td align="center" class="padding-container" valign="top" width="100%">
+<table align="center" border="0" cellpadding="0" cellspacing="0" class="wrapper" width="600">
+<tbody>
+<tr>
+<td>
+<table border="0" cellpadding="0" cellspacing="0">
+<tbody>
+<tr>
+<td align="center" class="outframe" style="border-radius: 3px; border-bottom: 2px solid #d4d4d4;" valign="top" width="100%">
+<table align="center" bgcolor="#ffffff" border="0" cellpadding="0" cellspacing="0" class="wrapper" style="border-radius: 3px;" width="600">
+<tbody>
+<tr>
+<td align="center">
+<table align="center" border="0" cellpadding="0" cellspacing="0" class="container" width="600">
+<tbody>
+
+<tr>
+<td>
+<!--START HEADER-->
+{% if content contains '| XING - Finde den Job, der zu Dir passt. Oder lass Dich finden! |' %}
+<div class="header" style="height: 80px; background-color: #161c24; white-space: nowrap; width: 100%; text-align: center; vertical-align: middle;">
+<a href="https://xing.com/" target="_blank">
+<img class="brand_logo" alt="xing" style="height: 35px; margin: 22.5px auto 22.5px auto;" src="https://xing-nw1689001897.zendesk.com/hc/theming_assets/01J1CWFQC3Y9H9KB1J6Z7EGZHS"/></a>
+</div>
+{% elsif content contains '| kununu - Teamwork für eine bessere Arbeitswelt |' or content contains '| kununu - Ihr Weg zu einer starken Employer Brand |' %}
+<div class="header" style="height: 80px; background-color: #102B69; white-space: nowrap; width: 100%; text-align: center; vertical-align: middle;">
+<a href="https://kununu.com/" target="_blank">
+<img class="brand_logo" alt="kununu" style="height: 35px; margin: 22.5px auto 22.5px auto;" src="https://theme.zdassets.com/theme_assets/17918920/68ebf51882b838fec2275ff1e281143fe67f244d.png"/></a>
+</div>
+{% elsif content contains '| XING - Dein Job-Netzwerk - Deine Karriere wartet nicht |' %}
+<div class="header" style="height: 80px; background-color: #0698A0; white-space: nowrap; width: 100%; text-align: center; vertical-align: middle;">
+<a href="https://xing.com/" target="_blank">
+<img class="brand_logo" alt="XING" style="height: 35px; margin: 22.5px auto 22.5px auto;" src="https://theme.zdassets.com/theme_assets/17918920/4b5c57bbd06f1eef4d23281b54cd4ef0adcd8abb.png"/></a>
+</div>
+{% else %}
+<div class="header" style="height: 80px; background-color: #003E40; white-space: nowrap; width: 100%; text-align: center; vertical-align: middle;">
+<a href="https://new-work.se/" target="_blank">
+<img class="brand_logo" alt="New Work SE" style="height: 35px; margin: 22.5px auto 22.5px auto;" src="https://theme.zdassets.com/theme_assets/17918920/332f684036db9e6b8cf8fbeab602abbac2ea5169.png"/></a>
+</div>
+{% endif %}
+<!--END HEADER-->
+</td>
+</tr>
+
+<tr>
+<td>
+<div class="zoom" style="width: 100%; background-color: #ffffff; text-align: left; vertical-align: top; margin: auto;">
+
+{% if content contains '| onlyfy - Ihr Recruiting. Unsere Lösung |' or content contains '| kununu - Teamwork für eine bessere Arbeitswelt |' or content contains '| kununu - Ihr Weg zu einer starken Employer Brand |' or content contains '| XING - Dein Job-Netzwerk - Deine Karriere wartet nicht |' or content contains '| XING - Finde den Job, der zu Dir passt. Oder lass Dich finden! |' %}
+<!--START CONTENT-->
+<div class="content" style="width: 100%; text-align: center; vertical-align: top; margin: auto;">
+{% if content contains '| onlyfy - Ihr Recruiting. Unsere Lösung |' %}
+{{content | replace: "color: #2b2e2f;", "color: #121C2F;"}}
+{% elsif content contains '| XING - Finde den Job, der zu Dir passt. Oder lass Dich finden! |' %}
+{{content | replace: "color: #2b2e2f;", "color: #1d2124;"}}
+{% elsif content contains '| kununu - Teamwork für eine bessere Arbeitswelt |' or content contains '| kununu - Ihr Weg zu einer starken Employer Brand |' %}
+{{content | replace: "color: #2b2e2f;", "color: #1b1c20;"}}
+{% elsif content contains '| XING - Dein Job-Netzwerk - Deine Karriere wartet nicht |' %}
+{{content | replace: "color: #2b2e2f;", "color: #1d2124;"}}
+{% else %}
+{{content}}
+{% endif %}
+</div>
+</div>
+<!--END E-MAIL CONTENT-->
+
+{% else %}
+<!--START SYSTEM MAIL CONTENT-->
+<div class="zoom" style="width: 100%; background-color: #ffffff; text-align: left; vertical-align: top; margin: auto;">
+
+<div class="email_header_auto_responder">
+<div class="line_height_S"></div>
+<span>This email was generated automatically.</span>
+<div class="line_height_XS"></div>
+<hr style="border-top: 0px solid #F6F6F4; width: 90%;"/>
+<div class="line_height_S"></div>
+</div>
+
+<div class="email_header_department" style="width: 90%;">
+<div class="line_height_S"></div>
+<span>New Work SE</span>
+</div>
+<div class="email_header_date" style="width: 90%;">
+<span>
+{% assign offset = 'now' | date: '%s' %}
+{% assign summerSwitch = 'now' | date: '%Y-04-01' | date: '%s' %}
+{% for day in (1..31) %}
+{% assign summerSwitch = summerSwitch | minus: 86400 %}
+{% assign weekday = summerSwitch | date: '%w' %}
+{% if weekday == '0' %}
+{% break %}
+{% endif %}
+{% endfor %}
+{% assign winterSwitch = 'now' | date: '%Y-11-01' | date: '%s' %}
+{% for day in (1..31) %}
+{% assign winterSwitch = winterSwitch | minus: 86400 %}
+{% assign weekday = winterSwitch | date: '%w' %}
+{% if weekday == '0' %}
+{% break %}
+{% endif %}
+{% endfor %}
+{% assign today = 'now' | date: '%s' | plus: 0 %}
+{% if today < summerSwitch or today > winterSwitch %}
+{% assign offset = 0 %}
+{% else %}
+{% assign offset = 1 %}
+{% endif %}
+{{ 3600 | times: offset | plus: today | date: '%d %b %Y, %H:%M' }}
+</span>
+</div>
+
+<div class="content" style="width: 90%; font-size: 18px; text-align: left; vertical-align: top; margin: auto;">
+<div class="line_height_L"></div>
+👋
+<div class="line_height_M"></div>
+{{content}}
+<div class="line_height_M"></div>
+</div>
+
+<!--START SYSTEM MAIL PREFOOTER CONTENT-->
+<div class="prefooter">
+<div class="line_height_L" style="background-color: #F6F6F4;"></div>
+<div style="background-color: #F6F6F4;">
+<div style="width: 90%; margin: auto;">
+<span style="font-size: 18px;">Please do not reply to this email.</span>
+</div>
+</div>
+<div class="line_height_L" style="background-color: #F6F6F4;"></div>
+<div style="background-color: #F6F6F4;">
+<div style="width: 90%; margin: auto;">
+<em style="font-size: 15px;">All contents and attached files are for internal use only and for your information. If you are not the correct recipient or have received this email erroneously, please inform the sender and delete this email.</em>
+</div>
+</div>
+<div class="line_height_L" style="background-color: #F6F6F4;"></div>
+<div class="line_height_L"></div>
+</div>
+<!-- END SYSTEM MAIL PREFOOTER CONTENT-->
+{% endif %}
+</td>
+</tr>
+
+<tr>
+<td>
+<!--START FOOTER-->
+{% if content contains '| XING - Finde den Job, der zu Dir passt. Oder lass Dich finden! |' %}
+<div class="signature" style="width: 100%; background-color: #161c24; padding: 30px 0 30px 0; margin: auto;">
+<div class="signature_content" style="width: 90%; color: #F2F2F4; text-align: left; margin: auto;">
+<div style="padding: 0 0 15px 0;">XING – part of NEW WORK SE
+<br>Am Strandkai 1, 20457 Hamburg, Germany</div>
+<div style="padding: 0 0 15px 0;">Commercial Reg. (Registergericht): Amtsgericht Hamburg, HRB 148078
+<br>Executive Board (Vorstand): Petra von Strombeck (CEO), Ingo Chu
+<br>Chair of the Supervisory Board (Aufsichtsratsvorsitzender): Tom Bureau</div>
+<div style="font-size: 13px;">This e-mail may contain confidential and/or privileged information.
+<br>If you are not the intended recipient (or have received this e-mail in error) please notify the sender immediately and destroy this e-mail.
+<br>Any unauthorized copying, disclosure or distribution of the material in this e-mail is strictly forbidden and may be unlawful.</div>
+</div>
+<hr style="width: 90%; margin: 20px auto 15px auto;">
+<div class="links" style="color: #F2F2F4; margin: auto; vertical-align: middle;">
+<table align="center" border="0" cellpadding="0" cellspacing="0" style="width: 90%; margin: auto;">
+<tbody>
+<tr>
+<td style="text-align: left;">
+<a href="https://xing.com/" rel="noopener" style="color: #F2F2F4; text-decoration: none;" target="_blank" title="xing.com">xing.com</a>
+</td>
+<td style="text-align: right;">
+<span style="color: #F2F2F4;">© xing | Alle Rechte vorbehalten
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+{% elsif content contains '| kununu - Teamwork für eine bessere Arbeitswelt |' or content contains '| kununu - Ihr Weg zu einer starken Employer Brand |' %}
+<div class="signature" style="width: 100%; background-color: #102B69; padding: 30px 0 30px 0; margin: auto;">
+<div class="signature_content" style="width: 90%; color: #E9EDEF; text-align: left; margin: auto;">
+<div style="padding: 0 0 15px 0;">kununu is part of NEW WORK SE.</div>
+<div style="padding: 0 0 15px 0;">Contact us:
+<br>NEW WORK SE
+<br>Am Strandkai 1
+<br>20457 Hamburg</div>
+<div style="padding: 0 0 15px 0;">Commercial Reg. (Registergericht): Amtsgericht Hamburg, HRB 148078
+<br>Executive Board (Vorstand): Petra von Strombeck (CEO), Ingo Chu
+<br>Chair of the Supervisory Board (Aufsichtsratsvorsitzender): Tom Bureau</div>
+<div style="font-size: 13px;">This e-mail may contain confidential and/or privileged information.
+<br>If you are not the intended recipient (or have received this e-mail in error) please notify the sender immediately and destroy this e-mail.
+<br>Any unauthorised copying, disclosure or distribution of the material in this e-mail is strictly forbidden and may be unlawful.</div>
+</div>
+<hr style="width: 90%; margin: 20px auto 15px auto;">
+<div class="links" style="color: #E9EDEF; margin: auto; vertical-align: middle;">
+<table align="center" border="0" cellpadding="0" cellspacing="0" style="width: 90%; margin: auto;">
+<tbody>
+<tr>
+<td style="text-align: left;">
+<a href="https://kununu.com/" rel="noopener" style="color: #E9EDEF; text-decoration: none;" target="_blank" title="kununu.com">kununu.com</a>
+</td>
+<td style="text-align: right;">
+<span style="color: #E9EDEF;">© kununu | Alle Rechte vorbehalten
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+{% elsif content contains '| XING - Dein Job-Netzwerk - Deine Karriere wartet nicht |' %}
+<div class="signature" style="width: 100%; background-color: #0698A0; padding: 30px 0 30px 0; margin: auto;">
+<div class="signature_content" style="width: 90%; color: #F4F4F5; text-align: left; margin: auto;">
+<div style="padding: 0 0 15px 0;">XING – part of NEW WORK SE
+<br>Am Strandkai 1, 20457 Hamburg, Germany</div>
+<div style="padding: 0 0 15px 0;">Commercial Reg. (Registergericht): Amtsgericht Hamburg, HRB 148078
+<br>Executive Board (Vorstand): Petra von Strombeck (CEO), Ingo Chu
+<br>Chair of the Supervisory Board (Aufsichtsratsvorsitzender): Tom Bureau</div>
+<div style="font-size: 13px;">This e-mail may contain confidential and/or privileged information.
+<br>If you are not the intended recipient (or have received this e-mail in error) please notify the sender immediately and destroy this e-mail.
+<br>Any unauthorized copying, disclosure or distribution of the material in this e-mail is strictly forbidden and may be unlawful.</div>
+</div>
+<hr style="width: 90%; margin: 20px auto 15px auto;">
+<div class="links" style="color: #F4F4F5; margin: auto; vertical-align: middle;">
+<table align="center" border="0" cellpadding="0" cellspacing="0" style="width: 90%; margin: auto;">
+<tbody>
+<tr>
+<td style="text-align: left;">
+<a href="https://xing.com/" rel="noopener" style="color: #F4F4F5; text-decoration: none;" target="_blank" title="xing.com">xing.com</a>
+</td>
+<td style="text-align: right;">
+<span style="color: #F4F4F5;">© XING | Alle Rechte vorbehalten
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+{% else %}
+<div class="signature" style="width: 100%; background-color: #003E40; padding: 30px 0 30px 0; margin: auto;">
+<div class="signature_content" style="width: 90%; color: #F6F6F4; text-align: left; margin: auto;">
+<div style="padding: 0 0 15px 0;">New Work SE
+<br>Am Strandkai 1 · 20457 Hamburg, Germany</div>
+<div style="padding: 0 0 15px 0;">Commercial Reg. (Registergericht): Amtsgericht Hamburg, HRB 148078
+<br>Executive Board (Vorstand): Petra von Strombeck (CEO), Ingo Chu
+<br>Chair of the Supervisory Board (Aufsichtsratsvorsitzender): Tom Bureau</div>
+<div style="font-size: 13px;">This e-mail may contain confidential and/or privileged information.
+<br>If you are not the intended recipient (or have received this e-mail in error) please notify the sender immediately and destroy this e-mail.
+<br>Any unauthorized copying, disclosure, or distribution of the material in this e-mail is strictly forbidden and may be unlawful.</div>
+</div>
+<hr style="width: 90%; margin: 20px auto 15px auto;">
+<div class="links" style="margin: auto; vertical-align: middle;">
+<table align="center" border="0" cellpadding="0" cellspacing="0" style="width: 90%; margin: auto;">
+<tbody>
+<tr>
+<td style="text-align: left;">
+<a href="https://new-work.se/" rel="noopener" style="color: #F6F6F4; text-decoration: none;"  target="_blank" title="new-work.se">new-work.se</a>
+</td>
+<td style="text-align: right;">
+<span style="color: #F6F6F4;">New Work SE | Alle Rechte vorbehalten</span>
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+{% endif %}
+<!--END FOOTER-->
+</td>
+</tr>
+
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+<!--[if gte mso 9]>
+<div class="end">
+<table align="center" border="0" cellspacing="0" cellpadding="0" width="600">
+<tr>
+<td align="center" valign="top" width="600" height="0">
+<![endif]--><!--[if gte mso 9]>
+</td>
+</tr>
+</table>
+<![endif]-->
+</body>
+</html>
