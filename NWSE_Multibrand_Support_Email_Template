@@ -300,7 +300,7 @@ font-family: "Arial", "sans-serif" !important;
 <td>
 <!--START HEADER-->
 {% if content contains '| XING - Finde den Job, der zu Dir passt. Oder lass Dich finden! |' %}
-<div class="header" style="height: 80px; background-color: #161c24; white-space: nowrap; width: 100%; text-align: center; vertical-align: middle;">
+<div class="header" style="height: 80px; background-color: #0698A0; white-space: nowrap; width: 100%; text-align: center; vertical-align: middle;">
 <a href="https://xing.com/" target="_blank">
 <img class="brand_logo" alt="xing" style="height: 35px; margin: 22.5px auto 22.5px auto;" src="https://xing-nw1689001897.zendesk.com/hc/theming_assets/01J1CWFQC3Y9H9KB1J6Z7EGZHS"/></a>
 </div>
@@ -425,7 +425,7 @@ font-family: "Arial", "sans-serif" !important;
 <td>
 <!--START FOOTER-->
 {% if content contains '| XING - Finde den Job, der zu Dir passt. Oder lass Dich finden! |' %}
-<div class="signature" style="width: 100%; background-color: #161c24; padding: 30px 0 30px 0; margin: auto;">
+<div class="signature" style="width: 100%; background-color: #0698A0; padding: 30px 0 30px 0; margin: auto;">
 <div class="signature_content" style="width: 90%; color: #F2F2F4; text-align: left; margin: auto;">
 <div style="padding: 0 0 15px 0;">XING – part of NEW WORK SE
 <br>Am Strandkai 1, 20457 Hamburg, Germany</div>
