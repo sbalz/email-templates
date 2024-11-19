@@ -302,7 +302,7 @@ font-family: "Arial", "sans-serif" !important;
 {% if content contains '| XING - Finde den Job, der zu Dir passt. Oder lass Dich finden! |' %}
 <div class="header" style="height: 80px; background-color: #0698A0; white-space: nowrap; width: 100%; text-align: center; vertical-align: middle;">
 <a href="https://xing.com/" target="_blank">
-<img class="brand_logo" alt="xing" style="height: 35px; margin: 22.5px auto 22.5px auto;" src="https://xing-nw1689001897.zendesk.com/hc/theming_assets/01J1CWFQC3Y9H9KB1J6Z7EGZHS"/></a>
+<img class="brand_logo" alt="xing" style="height: 35px; margin: 22.5px auto 22.5px auto;" src="https://xing-nw1689001897.zendesk.com/hc/theming_assets/01HZPWYX5HESHCY694DWTZRZ9B"/></a>
 </div>
 {% elsif content contains '| kununu - Teamwork für eine bessere Arbeitswelt |' or content contains '| kununu - Ihr Weg zu einer starken Employer Brand |' %}
 <div class="header" style="height: 80px; background-color: #102B69; white-space: nowrap; width: 100%; text-align: center; vertical-align: middle;">
